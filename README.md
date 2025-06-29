@@ -12,7 +12,7 @@ Proyek ini menjawab pertanyaan: **"Apa saja masalah utama yang dihadapi pengguna
 
 Data yang digunakan dalam analisis ini diperoleh melalui proses **scraping** sebanyak **5.000 ulasan terbaru** dari aplikasi MyTelkomsel di Google Play Store.
 
-- **Tanggal Pengambilan Data:** Juli 2024
+- **Tanggal Pengambilan Data: 30 Juli 2024
 - **Jumlah Ulasan:** 5.000
 
 ## 🚀 Alur Kerja Proyek (Methodology)
